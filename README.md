@@ -3,11 +3,6 @@
 
 Tableau Public Link: [(https://public.tableau.com/app/profile/saidur.rahman1182/viz/HR-Dashboard_17249070254940/HRSummary)]
 
-
-Here's an updated version of the README with a **Findings** section added:
-
----
-
 # HR Dashboard Project
 
 ## Table of Contents
@@ -87,7 +82,3 @@ The dashboard offers several valuable insights, including:
 
 ## Conclusion <a name="conclusion"></a>
 This HR Dashboard serves as a comprehensive tool for managing workforce analytics. It demonstrates the potential of data visualization in human resource management, providing valuable insights for informed decision-making.
-
----
-
-With the **Findings** section, you can now highlight key insights derived from the data in a way that makes the work behind the project feel impactful.
