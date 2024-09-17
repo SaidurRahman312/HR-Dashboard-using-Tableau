@@ -36,8 +36,7 @@ The generated dataset simulates a comprehensive employee database with over **10
 The following tools and technologies were used to develop this dashboard:
 - **Tableau**: For building interactive and dynamic dashboards.
 - **Faker Library (Python)**: For generating synthetic employee data.
-- **Pandas and NumPy**: For data manipulation and preprocessing.
-- **Matplotlib**: For supporting visual representation (where applicable).
+- **Pandas**: For data manipulation and preprocessing.
 - **SQL Server**: For data storage and querying.
 
 ## Dashboard Features <a name="features"></a>
